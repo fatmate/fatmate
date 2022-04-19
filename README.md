@@ -1,6 +1,10 @@
 <h1 align="center">Merhabalar👋, Ben Fatma</h1>
 <h3 align="center">Mekatronik Mühendisi :robot: adayı ve Oyun ve Uygulama Akademisi :woman_technologist: bursiyeri </h3>
-<h3 align="center">**BİR YOL VAR:blossom:**</h3>
+<h3 align="center">**BİR YOL VAR:blossom:**</h3><br><br>
+
+Burada henüz yeniyim. En kısa sürede öğrendiğim diller olan HTML, CSS, JavaScript, Dart ve React.Js projelerimi repoya yükleyeceğim. Görüşmek üzere.
+
+
 
  **:desktop_computer: Üzerinde Çalıştığım Proje:** Python ile deep learning kullanılarak insansız hava araçları tespiti.
  
